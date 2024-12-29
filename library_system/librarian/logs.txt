@@ -1,0 +1,244 @@
+[2024-12-23 02:35:01] Library Management System Started
+[2024-12-23 02:37:02] Library Management System Started
+[2024-12-23 02:37:10] Failed to create user.
+[2024-12-23 02:37:20] User 'm' created successfully with role 'member'.
+[2024-12-23 02:37:20] Member data file created successfully.
+[2024-12-23 02:37:20] Member directory created successfully.
+[2024-12-23 02:37:20] Borrowed_books directory created successfully.
+[2024-12-23 02:37:20] Account details file created successfully.
+[2024-12-23 02:37:20] Borrowing history file created successfully.
+[2024-12-23 02:37:20] Member 'm' registered successfully.
+[2024-12-23 02:40:20] System Exited
+
+[2024-12-23 02:40:22] Library Management System Started
+[2024-12-23 02:40:23] System Exited
+
+[2024-12-23 02:40:28] Library Management System Started
+[2024-12-23 02:40:34] User 'mem' created successfully with role 'member'.
+[2024-12-23 02:40:34] Member data file created successfully.
+[2024-12-23 02:40:34] Member directory created successfully.
+[2024-12-23 02:40:34] Borrowed_books directory created successfully.
+[2024-12-23 02:40:34] Account details file created successfully.
+[2024-12-23 02:40:34] Borrowing history file created successfully.
+[2024-12-23 02:40:34] Member 'mem' registered successfully.
+[2024-12-23 02:41:10] System Exited
+
+[2024-12-23 02:41:40] Library Management System Started
+[2024-12-23 02:41:45] User 'mem' logged in successfully.
+[2024-12-23 02:42:12] System Exited
+
+[2024-12-23 02:42:17] Library Management System Started
+[2024-12-23 02:42:19] User 'mem' logged in successfully.
+[2024-12-23 02:42:42] Failed to create user.
+[2024-12-23 02:42:45] System Exited
+
+[2024-12-23 02:42:47] Library Management System Started
+[2024-12-23 02:42:54] User 'vis' created successfully with role 'visitor'.
+[2024-12-23 02:42:54] Visitor 'vis' registered successfully.
+[2024-12-23 02:43:01] User 'vis' logged in successfully.
+[2024-12-23 02:45:47] System Exited
+
+[2024-12-23 02:47:07] Library Management System Started
+[2024-12-23 02:47:11] Invalid role specified during registration.
+[2024-12-23 02:47:56] System Exited
+
+[2024-12-23 02:47:59] Library Management System Started
+[2024-12-23 02:48:05] User 'jox' created successfully with role 'librarian'.
+[2024-12-23 02:48:05] librarian 'jox' registered successfully.
+[2024-12-23 02:48:27] System Exited
+
+[2024-12-23 02:48:31] Library Management System Started
+[2024-12-23 02:48:36] User 'vis' logged in successfully.
+[2024-12-23 02:48:49] System Exited
+
+[2024-12-23 02:48:50] Library Management System Started
+[2024-12-23 02:48:54] User 'mem' logged in successfully.
+[2024-12-23 02:48:58] System Exited
+
+[2024-12-23 02:48:59] Library Management System Started
+[2024-12-23 02:49:04] User 'jox' logged in successfully.
+[2024-12-23 02:49:42] System Exited
+
+[2024-12-23 03:11:39] Library Management System Started
+[2024-12-23 03:11:51] User 'mem1' created successfully with role 'member'.
+[2024-12-23 03:11:51] Member data file created successfully.
+[2024-12-23 03:12:04] Library Management System Started
+[2024-12-23 03:12:09] Failed to create user.
+[2024-12-23 03:12:15] Failed to create user.
+[2024-12-23 03:13:32] User 'mem11' created successfully with role 'member'.
+[2024-12-23 03:13:32] Member data file created successfully.
+[2024-12-23 03:19:30] Library Management System Started
+[2024-12-23 03:19:38] User 'ahh' created successfully with role 'member'.
+[2024-12-23 03:19:38] Member data file created successfully.
+[2024-12-23 03:19:38] Member directory created successfully.
+[2024-12-23 03:19:38] Borrowed_books directory created successfully.
+[2024-12-23 03:19:38] Account details file created successfully.
+[2024-12-23 03:19:38] Borrowing history file created successfully.
+[2024-12-23 03:19:38] Member 'ahh' registered successfully.
+[2024-12-23 03:19:50] System Exited
+
+[2024-12-23 03:21:24] Library Management System Started
+[2024-12-23 03:21:27] User 'ahh' logged in successfully.
+[2024-12-23 03:21:31] System Exited
+
+[2024-12-23 03:21:32] Library Management System Started
+[2024-12-23 03:21:35] User 'jox' logged in successfully.
+[2024-12-23 03:21:38] System Exited
+
+[2024-12-23 14:04:24] Library Management System Started
+[2024-12-23 14:04:38] User 'mohamed' created successfully with role 'member'.
+[2024-12-23 14:04:38] Member data file created successfully.
+[2024-12-23 14:04:38] Member directory created successfully.
+[2024-12-23 14:04:38] Borrowed_books directory created successfully.
+[2024-12-23 14:04:38] Account details file created successfully.
+[2024-12-23 14:04:38] Borrowing history file created successfully.
+[2024-12-23 14:04:38] Member 'mohamed' registered successfully.
+[2024-12-23 14:05:12] System Exited
+
+[2024-12-23 14:05:13] Library Management System Started
+[2024-12-23 14:05:19] User 'mohamed' logged in successfully.
+[2024-12-23 14:06:03] System Exited
+
+[2024-12-23 14:06:05] Library Management System Started
+[2024-12-23 14:06:10] User 'jox' logged in successfully.
+[2024-12-23 14:06:32] System Exited
+
+[2024-12-23 14:06:36] Library Management System Started
+[2024-12-23 14:06:40] User 'jox' logged in successfully.
+[2024-12-23 14:08:26] System Exited
+
+[2024-12-23 14:10:21] Library Management System Started
+[2024-12-23 14:10:24] User 'jox' logged in successfully.
+[2024-12-23 14:10:33] System Exited
+
+[2024-12-23 14:10:34] Library Management System Started
+[2024-12-23 14:10:38] User 'mohamed' logged in successfully.
+[2024-12-23 14:15:45] System Exited
+
+[2024-12-23 14:15:50] Library Management System Started
+[2024-12-23 14:15:56] User 'vis' logged in successfully.
+[2024-12-23 14:16:00] System Exited
+
+[2024-12-28 21:48:47] Library Management System Started
+[2024-12-28 21:48:52] User 'jox' logged in successfully.
+[2024-12-28 21:49:18] System Exited
+
+[2024-12-28 21:49:21] Library Management System Started
+[2024-12-28 21:49:24] User 'jox' logged in successfully.
+[2024-12-28 21:49:53] Created a file.
+[2024-12-28 21:50:32] Updated permissions successfully.
+[2024-12-28 21:50:40] System Exited
+
+[2024-12-28 21:50:44] Library Management System Started
+[2024-12-28 21:50:46] User 'jox' logged in successfully.
+[2024-12-28 21:51:05] Created a directory.
+[2024-12-28 21:53:02] Copied a file or directory.
+[2024-12-28 21:53:24] Deleted a file.
+[2024-12-28 21:53:32] Deleted a directory.
+[2024-12-28 21:53:42] Deleted a directory.
+[2024-12-28 21:54:18] Failed to create a symbolic link.
+[2024-12-28 21:57:12] Created a symbolic link.
+[2024-12-28 21:57:40] System Exited
+
+[2024-12-28 21:57:58] Library Management System Started
+[2024-12-28 21:58:00] User 'jox' logged in successfully.
+[2024-12-28 21:58:10] Deleted a file.
+[2024-12-28 21:58:28] Created a symbolic link.
+[2024-12-28 22:00:35] Failed to copy a file or directory.
+[2024-12-28 22:01:02] Failed to copy a file or directory.
+[2024-12-28 22:01:24] Copied a file or directory.
+[2024-12-28 22:03:27] Library Management System Started
+[2024-12-28 22:03:30] Invalid password attempt for user 'jox'.
+[2024-12-28 22:03:33] User 'jox' logged in successfully.
+[2024-12-28 22:05:07] Book added successfully.
+[2024-12-28 22:05:29] System Exited
+
+[2024-12-28 22:05:32] Library Management System Started
+[2024-12-28 22:05:34] User 'jox' logged in successfully.
+[2024-12-28 22:05:48] Book added successfully.
+[2024-12-28 22:07:40] System Exited
+
+[2024-12-28 22:07:42] Library Management System Started
+[2024-12-28 22:07:44] User 'jox' logged in successfully.
+[2024-12-28 22:07:56] Book added successfully.
+[2024-12-28 22:10:16] Viewed file content using cat/head/tail.
+[2024-12-28 22:17:40] System Exited
+
+[2024-12-28 22:17:43] Library Management System Started
+[2024-12-28 22:17:46] User 'jox' logged in successfully.
+[2024-12-28 22:19:25] Book added successfully.
+[2024-12-28 22:19:52] Book added successfully.
+[2024-12-28 22:22:16] System Exited
+
+[2024-12-28 22:22:20] Library Management System Started
+[2024-12-28 22:22:22] User 'jox' logged in successfully.
+[2024-12-28 22:24:13] System Exited
+
+[2024-12-28 22:24:16] Library Management System Started
+[2024-12-28 22:24:18] User 'jox' logged in successfully.
+[2024-12-28 22:25:37] System Exited
+
+[2024-12-28 22:25:39] Library Management System Started
+[2024-12-28 22:25:42] User 'jox' logged in successfully.
+[2024-12-28 22:27:18] System Exited
+
+[2024-12-28 22:27:21] Library Management System Started
+[2024-12-28 22:27:26] User 'jox' logged in successfully.
+[2024-12-28 22:30:45] System Exited
+
+[2024-12-28 22:30:47] Library Management System Started
+[2024-12-28 22:30:52] User 'jox' logged in successfully.
+[2024-12-28 22:31:38] System Exited
+
+[2024-12-28 22:35:59] Library Management System Started
+[2024-12-28 22:36:03] User 'jox' logged in successfully.
+[2024-12-28 22:37:43] System Exited
+
+[2024-12-28 22:37:46] Library Management System Started
+[2024-12-28 22:37:48] User 'jox' logged in successfully.
+[2024-12-28 22:42:32] System Exited
+
+[2024-12-28 22:43:02] Library Management System Started
+[2024-12-28 22:43:05] User 'jox' logged in successfully.
+[2024-12-28 22:44:37] System Exited
+
+[2024-12-28 22:45:39] Library Management System Started
+[2024-12-28 22:45:45] User 'jox' logged in successfully.
+[2024-12-28 22:48:38] System Exited
+
+[2024-12-28 22:48:40] Library Management System Started
+[2024-12-28 22:48:43] User 'jox' logged in successfully.
+[2024-12-28 22:48:53] Book added successfully.
+[2024-12-28 22:50:25] System Exited
+
+[2024-12-28 22:50:28] Library Management System Started
+[2024-12-28 22:50:30] User 'jox' logged in successfully.
+[2024-12-28 23:00:54] System Exited
+
+[2024-12-28 23:11:39] Library Management System Started
+[2024-12-28 23:11:45] User 'vis' logged in successfully.
+[2024-12-28 23:13:19] System Exited
+
+[2024-12-28 23:13:21] Library Management System Started
+[2024-12-28 23:13:26] User 'vis' logged in successfully.
+[2024-12-28 23:14:23] System Exited
+
+[2024-12-28 23:14:27] Library Management System Started
+[2024-12-28 23:14:30] Invalid password attempt for user 'vis'.
+[2024-12-28 23:14:34] User 'vis' logged in successfully.
+[2024-12-28 23:15:14] System Exited
+
+[2024-12-28 23:15:43] Library Management System Started
+[2024-12-28 23:15:48] User 'vis' logged in successfully.
+[2024-12-28 23:16:57] Viewed file content using cat/head/tail.
+[2024-12-28 23:17:09] System Exited
+
+[2024-12-28 23:17:12] Library Management System Started
+[2024-12-28 23:17:17] User 'jox' logged in successfully.
+[2024-12-28 23:17:24] System Exited
+
+[2024-12-28 23:18:58] Library Management System Started
+[2024-12-28 23:19:03] User 'vis' logged in successfully.
+[2024-12-28 23:19:19] Viewed file content using cat/head/tail.
+[2024-12-28 23:19:21] System Exited
+

@@ -1,0 +1,2 @@
+Logged in user: vis
+Role: visitors

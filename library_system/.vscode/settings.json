@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "common_operations.h": "c",
+        "member_functions.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "librarian_functions.h": "c",
+        "string.h": "c"
+    }
+}

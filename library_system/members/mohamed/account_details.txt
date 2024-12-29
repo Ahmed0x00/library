@@ -1,0 +1,3 @@
+username: mohamed
+join date: 2024-12-23
+number of borrowed books: 0
