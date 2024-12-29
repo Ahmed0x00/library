@@ -117,15 +117,16 @@ sudo usermod -aG members nahmsec
 
 ## member menu
 Borrow books and view their borrowing history
-2. list files/dirs in your dir
-4. create file/dir
-5. delete file/dir
-7. copy file/dir
-8. create alias
-9. borrow book
-10. view a book
-11. view your borrowing history
-12. update your borrowing history
+
+1. List files/dirs in your directory  
+2. Create file/dir  
+3. Delete file/dir  
+4. Copy file/dir  
+5. Create alias  
+6. View a book  
+7. Borrow a book  
+8. View your borrowing history  
+9. Update your borrowing history  
 
 
 ## Visitor menu
